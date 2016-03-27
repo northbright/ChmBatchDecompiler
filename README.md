@@ -3,7 +3,7 @@
 
 A simple tool to batch decompile CHM files.  
 
-You may download it on the official site:  
+#### Official Site:  
 <http://www.northbright.com>
 
 #### Dependency
